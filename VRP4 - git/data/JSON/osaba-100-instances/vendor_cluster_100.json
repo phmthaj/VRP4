@@ -1,0 +1,210 @@
+{
+  "clusters": [
+    {
+      "depot_node_id": 6,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 112.5,
+        "drink": 152.0,
+        "electronics": 181.7,
+        "household": 150.0
+      },
+      "assigned_vendors": [
+        2,
+        5,
+        8,
+        10
+      ]
+    },
+    {
+      "depot_node_id": 15,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 113.0,
+        "drink": 114.5,
+        "electronics": 129.5,
+        "household": 87.5
+      },
+      "assigned_vendors": [
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "depot_node_id": 26,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 98.0,
+        "drink": 113.0,
+        "electronics": 129.5,
+        "household": 90.0
+      },
+      "assigned_vendors": [
+        23,
+        29,
+        30
+      ]
+    },
+    {
+      "depot_node_id": 38,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 178.5,
+        "drink": 154.0,
+        "electronics": 115.5,
+        "household": 172.5
+      },
+      "assigned_vendors": [
+        34,
+        35,
+        37,
+        39
+      ]
+    },
+    {
+      "depot_node_id": 45,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 164.5,
+        "drink": 172.0,
+        "electronics": 161.8,
+        "household": 165.5
+      },
+      "assigned_vendors": [
+        42,
+        43,
+        46,
+        49
+      ]
+    },
+    {
+      "depot_node_id": 56,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 97.5,
+        "drink": 75.5,
+        "electronics": 109.0,
+        "household": 146.0
+      },
+      "assigned_vendors": [
+        51,
+        59,
+        60
+      ]
+    },
+    {
+      "depot_node_id": 66,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 147.0,
+        "drink": 171.5,
+        "electronics": 122.5,
+        "household": 133.5
+      },
+      "assigned_vendors": [
+        62,
+        63,
+        68,
+        69
+      ]
+    },
+    {
+      "depot_node_id": 74,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 133.5,
+        "drink": 166.0,
+        "electronics": 132.5,
+        "household": 133.0
+      },
+      "assigned_vendors": [
+        73,
+        77,
+        79,
+        80
+      ]
+    },
+    {
+      "depot_node_id": 85,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 145.0,
+        "drink": 79.0,
+        "electronics": 100.5,
+        "household": 110.5
+      },
+      "assigned_vendors": [
+        84,
+        86,
+        88
+      ]
+    },
+    {
+      "depot_node_id": 94,
+      "depot_storage_capacity": {
+        "food": 187.8,
+        "drink": 185.5,
+        "electronics": 181.7,
+        "household": 185.3
+      },
+      "current_assigned_mass": {
+        "food": 183.0,
+        "drink": 160.0,
+        "electronics": 148.0,
+        "household": 165.5
+      },
+      "assigned_vendors": [
+        93,
+        97,
+        98,
+        99
+      ]
+    }
+  ]
+}

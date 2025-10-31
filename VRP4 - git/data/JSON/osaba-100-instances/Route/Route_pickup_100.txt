@@ -1,0 +1,126 @@
+Depot 6:
+  medium_truck:
+    Trip 1 → 6 → 7 → 8 → 2 → 6
+  small_truck:
+    Trip 1 → 6 → 2 → 6
+    Trip 2 → 6 → 5 → 6
+    Trip 3 → 6 → 5 → 6
+    Trip 4 → 6 → 7 → 8 → 7 → 6
+    Trip 5 → 6 → 10 → 6
+    Trip 6 → 6 → 10 → 6
+    Trip 7 → 6 → 10 → 6
+  large_truck:
+    Trip 1 → 6 → 5 → 2 → 6
+
+Depot 15:
+  large_truck:
+    Trip 1 → 15 → 12 → 11 → 12 → 15
+  small_truck:
+    Trip 1 → 15 → 12 → 11 → 12 → 15
+    Trip 2 → 15 → 12 → 15
+    Trip 3 → 15 → 14 → 15
+    Trip 4 → 15 → 14 → 15
+  medium_truck:
+    Trip 1 → 15 → 14 → 14 → 11 → 12 → 15
+
+Depot 26:
+  small_truck:
+    Trip 1 → 26 → 30 → 30 → 26
+    Trip 2 → 26 → 27 → 29 → 27 → 26
+    Trip 3 → 26 → 30 → 26
+    Trip 4 → 26 → 30 → 26
+  medium_truck:
+    Trip 1 → 26 → 23 → 26
+  large_truck:
+    Trip 1 → 26 → 27 → 29 → 29 → 23 → 26
+
+Depot 38:
+  medium_truck:
+    Trip 1 → 38 → 35 → 35 → 37 → 38
+  large_truck:
+    Trip 1 → 38 → 37 → 37 → 38
+  small_truck:
+    Trip 1 → 38 → 39 → 38
+    Trip 2 → 38 → 34 → 38
+    Trip 3 → 38 → 39 → 38
+    Trip 4 → 38 → 37 → 39 → 39 → 38
+    Trip 5 → 38 → 34 → 38
+    Trip 6 → 38 → 35 → 38
+    Trip 7 → 38 → 34 → 38
+
+Depot 45:
+  large_truck:
+    Trip 1 → 45 → 43 → 43 → 43 → 45
+  medium_truck:
+    Trip 1 → 45 → 46 → 46 → 46 → 45
+  small_truck:
+    Trip 1 → 45 → 49 → 45
+    Trip 2 → 45 → 46 → 45
+    Trip 3 → 45 → 49 → 45
+    Trip 4 → 45 → 42 → 45
+    Trip 5 → 45 → 42 → 45
+    Trip 6 → 45 → 42 → 45
+    Trip 7 → 45 → 49 → 45
+
+Depot 56:
+  large_truck:
+    Trip 1 → 56 → 60 → 60 → 59 → 59 → 51 → 52 → 56
+  medium_truck:
+    Trip 1 → 56 → 52 → 51 → 52 → 56
+  small_truck:
+    Trip 1 → 56 → 52 → 51 → 52 → 56
+    Trip 2 → 56 → 57 → 59 → 57 → 56
+    Trip 3 → 56 → 60 → 56
+    Trip 4 → 56 → 60 → 56
+
+Depot 66:
+  medium_truck:
+    Trip 1 → 66 → 62 → 62 → 62 → 63 → 66
+  small_truck:
+    Trip 1 → 66 → 67 → 68 → 69 → 69 → 70 → 66
+    Trip 2 → 66 → 70 → 69 → 70 → 66
+    Trip 3 → 66 → 67 → 68 → 67 → 66
+    Trip 4 → 66 → 62 → 66
+    Trip 5 → 66 → 70 → 69 → 70 → 66
+    Trip 6 → 66 → 67 → 68 → 67 → 66
+  large_truck:
+    Trip 1 → 66 → 63 → 63 → 63 → 66
+
+Depot 74:
+  small_truck:
+    Trip 1 → 74 → 77 → 80 → 79 → 74
+    Trip 2 → 74 → 77 → 74
+    Trip 3 → 74 → 79 → 74
+    Trip 4 → 74 → 77 → 80 → 77 → 74
+    Trip 5 → 74 → 77 → 80 → 77 → 74
+  large_truck:
+    Trip 1 → 74 → 77 → 77 → 73 → 74
+  medium_truck:
+    Trip 1 → 74 → 79 → 73 → 74
+
+Depot 85:
+  large_truck:
+    Trip 1 → 85 → 84 → 86 → 86 → 85
+  medium_truck:
+    Trip 1 → 85 → 84 → 85
+  small_truck:
+    Trip 1 → 85 → 86 → 85
+    Trip 2 → 85 → 88 → 85
+    Trip 3 → 85 → 88 → 85
+    Trip 4 → 85 → 88 → 88 → 85
+
+Depot 94:
+  medium_truck:
+    Trip 1 → 94 → 93 → 93 → 94
+  large_truck:
+    Trip 1 → 94 → 97 → 97 → 97 → 98 → 98 → 98 → 94
+  small_truck:
+    Trip 1 → 94 → 98 → 94
+    Trip 2 → 94 → 97 → 94
+    Trip 3 → 94 → 99 → 94
+    Trip 4 → 94 → 99 → 94
+    Trip 5 → 94 → 93 → 94
+    Trip 6 → 94 → 99 → 94
+
+==================================================
+Tổng chi phí (Tất cả depot): 222552.00
