@@ -1,0 +1,26 @@
+PS C:\Users\thaip\Desktop\project1> python alns_loggi.py --folder "data/instances" --instances (Get-ChildItem data/instances -Filter *.vrp | Sort-Object Length).Name --iters 6000 --seed 17
+Loading: data/instances\Loggi-n401-k23.vrp
+  n=401 cap=100 depot=1
+  distance matrix loaded ((401, 401))
+✔ Done Loggi-n401-k23.vrp | best=371912.00 | time=32.25s
+Loading: data/instances\Loggi-n501-k24.vrp
+  n=501 cap=120 depot=1
+  distance matrix loaded ((501, 501))
+✔ Done Loggi-n501-k24.vrp | best=209658.00 | time=97.27s
+Loading: data/instances\Loggi-n601-k19.vrp
+  n=601 cap=180 depot=1
+  distance matrix loaded ((601, 601))
+✔ Done Loggi-n601-k19.vrp | best=129602.00 | time=79.39s
+Loading: data/instances\Loggi-n601-k42.vrp
+  n=601 cap=80 depot=1
+  distance matrix loaded ((601, 601))
+✔ Done Loggi-n601-k42.vrp | best=402413.00 | time=79.59s
+Loading: data/instances\Loggi-n901-k42.vrp
+  n=901 cap=120 depot=1
+  distance matrix loaded ((901, 901))
+✔ Done Loggi-n901-k42.vrp | best=295553.00 | time=285.30s
+Loading: data/instances\Loggi-n1001-k31.vrp
+  n=1001 cap=180 depot=1
+  distance matrix loaded ((1001, 1001))
+✔ Done Loggi-n1001-k31.vrp | best=357878.00 | time=428.04s
+PS C:\Users\thaip\Desktop\project1>
